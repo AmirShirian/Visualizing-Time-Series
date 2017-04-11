@@ -1,2 +1,7 @@
-# Visualizing-Time-Series
+# Online Spectral Image Generating for evolving cyclic Time Series
 Visualize Your Data
+
+Time series is one of the most important topic in scientific and financial application. A time series is a series of data in time order. The features of time series data include: large in size and high dimensions. Increasing usage of time series in science and industry, force scientist to attempt in this field. In this paper we demonstrate a new approach to visualize times series data based on frequency spectral. Moreover, it supports both cyclic and non-cyclic time series. This approach convert every time series to one picture that has its feature. This instrumentation can be used to reduced size, complexity and be raw data for a learning machine.
+
+
+s(t)=c0+∑h=1Nchsin(ωht+φh)
